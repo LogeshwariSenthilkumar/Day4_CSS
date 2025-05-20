@@ -1,0 +1,30 @@
+.one{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-evenly;
+}
+.flexdir{
+    color: white;
+    background-color: black;
+    margin:10px;
+}
+.two{
+    background-color: greenyellow;
+    display: flex;
+    margin-top: 100px;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.three{
+     background-color: greenyellow;
+    display: flex;
+    margin-top: 100px;
+    height: 500px;
+    align-items: center;
+}
+.flexdirss{
+    color: white;
+    background-color: black;
+    margin:10px;
+    height: 200px;
+}

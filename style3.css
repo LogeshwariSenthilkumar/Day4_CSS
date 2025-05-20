@@ -1,0 +1,57 @@
+.one{
+    background-color: greenyellow;
+    display: flex;
+}
+.flexgrow1{
+       color: white;
+    background-color: black;
+    margin:10px;
+    flex-grow: 3;
+}
+.flexgrow2{
+       color: white;
+    background-color: black;
+    margin:10px;
+    flex-grow: 1;
+}
+.two{
+   background-color: greenyellow;
+    display: flex;
+    margin-top: 100px; 
+    flex-wrap: wrap;
+}
+.flexbasics{
+    color: white;
+    background-color: black;
+    flex-basis: 20%;
+    margin: 5px;
+    flex-grow: 1;
+}
+.three{
+    background-color: greenyellow;
+    display: flex;
+    margin-top: 100px;
+}
+.flex1{
+    color: white;
+    background-color: black;
+    margin: 5px;
+    flex-shrink: 5;
+
+
+}
+.flex2{
+    color: white;
+    background-color: black;
+    margin: 5px;
+    order: -1;
+
+
+}
+.flex3{
+    color: white;
+    background-color: black;
+    margin: 5px;
+    
+
+}
